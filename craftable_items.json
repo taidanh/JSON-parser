@@ -1,0 +1,2298 @@
+[
+  {
+    "station": "Booze generator",
+    "craftable": [
+      {
+        "level": "Booze generator level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "\"Fierce Hatchling\" moonshine",
+        "time": "Booze generator level 1\n3 h 3 min",
+        "mults": "x2\nPack of sugar\n+\nx1\nPurified water",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ad/Fiece_hatchling_moonshine_icon.png/revision/latest/scale-to-width-down/64?cb=20201015201315",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/%22Fierce_Hatchling%22_moonshine",
+        "num_craftables": "x1\n\"Fierce Hatchling\" moonshine",
+        "url": "https://escapefromtarkov.gamepedia.com/%22Fierce_Hatchling%22_moonshine",
+        "materials": [
+          {
+            "name": "Pack of sugar",
+            "url": "https://escapefromtarkov.gamepedia.com/Pack_of_sugar",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/Sugar_icon.png/revision/latest/scale-to-width-down/64?cb=20181111180801",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pack_of_sugar"
+          },
+          {
+            "name": "Purified water",
+            "url": "https://escapefromtarkov.gamepedia.com/Purified_water",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/Purified_water_icon.png/revision/latest/scale-to-width-down/127?cb=20191109111053",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Purified_water"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Intelligence center",
+    "craftable": [
+      {
+        "level": "Intelligence Center level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Secure Flash drive",
+        "time": "Intelligence Center level 2\n34 h 13 min",
+        "mults": "x1\nBroken GPhone\n+\nx1\nBroken GPhone X\n+\nx1\nSSD drive",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b7/Secure_Flash_drive_Icon.png/revision/latest/scale-to-width-down/64?cb=20190604184656",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Secure_Flash_drive",
+        "num_craftables": "x3\nSecure Flash drive",
+        "url": "https://escapefromtarkov.gamepedia.com/Secure_Flash_drive",
+        "materials": [
+          {
+            "name": "Broken GPhone",
+            "url": "https://escapefromtarkov.gamepedia.com/Broken_GPhone",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/be/Broken_GPhone_Icon.png/revision/latest/scale-to-width-down/64?cb=20190517102506",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Broken_GPhone"
+          },
+          {
+            "name": "Broken GPhone X",
+            "url": "https://escapefromtarkov.gamepedia.com/Broken_GPhone_X",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/80/Broken_GPhone_x_Icon.png/revision/latest/scale-to-width-down/64?cb=20181228195014",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Broken_GPhone_X"
+          },
+          {
+            "name": "SSD drive",
+            "url": "https://escapefromtarkov.gamepedia.com/SSD_drive",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/Ssd_icon.png/revision/latest/scale-to-width-down/64?cb=20190604141726",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/SSD_drive"
+          }
+        ]
+      },
+      {
+        "level": "Intelligence Center level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Graphics card",
+        "time": "Intelligence Center level 2\n37 h 30 min",
+        "mults": "x2\nPrinted circuit board\n+\nx1\nPC CPU\n+\nx2\nCPU Fan\n+\nx1\nVPX Flash Storage Module",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b3/Graphics_Card_icon.png/revision/latest/scale-to-width-down/127?cb=20200217231500",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Graphics_card",
+        "num_craftables": "x1\nGraphics card",
+        "url": "https://escapefromtarkov.gamepedia.com/Graphics_card",
+        "materials": [
+          {
+            "name": "Printed circuit board",
+            "url": "https://escapefromtarkov.gamepedia.com/Printed_circuit_board",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/Circuit_Icon.png/revision/latest/scale-to-width-down/64?cb=20190604174941",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Printed_circuit_board"
+          },
+          {
+            "name": "PC CPU",
+            "url": "https://escapefromtarkov.gamepedia.com/PC_CPU",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/PC_CPU_Icon.png/revision/latest/scale-to-width-down/64?cb=20190517222033",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/PC_CPU"
+          },
+          {
+            "name": "CPU Fan",
+            "url": "https://escapefromtarkov.gamepedia.com/CPU_Fan",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/CPU_Fan_Icon.png/revision/latest/scale-to-width-down/64?cb=20190525234657",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/CPU_Fan"
+          },
+          {
+            "name": "VPX Flash Storage Module",
+            "url": "https://escapefromtarkov.gamepedia.com/VPX_Flash_Storage_Module",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/VPXFlashIcon.png/revision/latest/scale-to-width-down/64?cb=20190103234425",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/VPX_Flash_Storage_Module"
+          }
+        ]
+      },
+      {
+        "level": "Intelligence Center level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Virtex programmable processor",
+        "time": "Intelligence Center level 2\n37 h 36 min",
+        "mults": "x2\nMilitary circuit board\n+\nx2\nPC CPU\n+\nx5\nCapacitors",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0d/Virtex_programmable_processor_Icon.png/revision/latest/scale-to-width-down/64?cb=20190103234723",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Virtex_programmable_processor",
+        "num_craftables": "x1\nVirtex programmable processor",
+        "url": "https://escapefromtarkov.gamepedia.com/Virtex_programmable_processor",
+        "materials": [
+          {
+            "name": "Military circuit board",
+            "url": "https://escapefromtarkov.gamepedia.com/Military_circuit_board",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/MilitaryCircuitBoardIcon.png/revision/latest/scale-to-width-down/66?cb=20191121104133",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Military_circuit_board"
+          },
+          {
+            "name": "PC CPU",
+            "url": "https://escapefromtarkov.gamepedia.com/PC_CPU",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/PC_CPU_Icon.png/revision/latest/scale-to-width-down/64?cb=20190517222033",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/PC_CPU"
+          },
+          {
+            "name": "Capacitors",
+            "url": "https://escapefromtarkov.gamepedia.com/Capacitors",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/Capacitorsicon.png/revision/latest/scale-to-width-down/64?cb=20181227201634",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Capacitors"
+          }
+        ]
+      },
+      {
+        "level": "Intelligence Center level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Military COFDM wireless Signal Transmitter",
+        "time": "Intelligence Center level 2\n38 h 53 min",
+        "mults": "x1\nBroken GPhone X\n+\nx1\nPowerbank\n+\nx1\nMilitary circuit board",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/COFDM_Icon.png/revision/latest/scale-to-width-down/127?cb=20200317181405",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Military_COFDM_wireless_Signal_Transmitter",
+        "num_craftables": "x1\nMilitary COFDM wireless Signal Transmitter",
+        "url": "https://escapefromtarkov.gamepedia.com/Military_COFDM_wireless_Signal_Transmitter",
+        "materials": [
+          {
+            "name": "Broken GPhone X",
+            "url": "https://escapefromtarkov.gamepedia.com/Broken_GPhone_X",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/80/Broken_GPhone_x_Icon.png/revision/latest/scale-to-width-down/64?cb=20181228195014",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Broken_GPhone_X"
+          },
+          {
+            "name": "Powerbank",
+            "url": "https://escapefromtarkov.gamepedia.com/Powerbank",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/PowerbankIcon.png/revision/latest/scale-to-width-down/64?cb=20190604185105",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Powerbank"
+          },
+          {
+            "name": "Military circuit board",
+            "url": "https://escapefromtarkov.gamepedia.com/Military_circuit_board",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/MilitaryCircuitBoardIcon.png/revision/latest/scale-to-width-down/66?cb=20191121104133",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Military_circuit_board"
+          }
+        ]
+      },
+      {
+        "level": "Intelligence Center level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "VPX Flash Storage Module",
+        "time": "Intelligence Center level 2\n45 h 50 min",
+        "mults": "x3\nRAM\n+\nx1\nSSD drive\n+\nx1\nBroken GPhone",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/VPXFlashIcon.png/revision/latest/scale-to-width-down/64?cb=20190103234425",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/VPX_Flash_Storage_Module",
+        "num_craftables": "x2\nVPX Flash Storage Module",
+        "url": "https://escapefromtarkov.gamepedia.com/VPX_Flash_Storage_Module",
+        "materials": [
+          {
+            "name": "RAM",
+            "url": "https://escapefromtarkov.gamepedia.com/RAM",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3e/Ramicon.png/revision/latest/scale-to-width-down/64?cb=20190525234636",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/RAM"
+          },
+          {
+            "name": "SSD drive",
+            "url": "https://escapefromtarkov.gamepedia.com/SSD_drive",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/Ssd_icon.png/revision/latest/scale-to-width-down/64?cb=20190604141726",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/SSD_drive"
+          },
+          {
+            "name": "Broken GPhone",
+            "url": "https://escapefromtarkov.gamepedia.com/Broken_GPhone",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/be/Broken_GPhone_Icon.png/revision/latest/scale-to-width-down/64?cb=20190517102506",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Broken_GPhone"
+          }
+        ]
+      },
+      {
+        "level": "Intelligence Center level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "UHF RFID Reader",
+        "time": "Intelligence Center level 2\n53 h 20 min",
+        "mults": "x1\nVirtex programmable processor\n+\nx1\nTerraGroup Labs access keycard\n+\nx2\nSignal Jammer",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/UHFRFIDIcon.png/revision/latest/scale-to-width-down/64?cb=20190103234135",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/UHF_RFID_Reader",
+        "num_craftables": "x1\nUHF RFID Reader",
+        "url": "https://escapefromtarkov.gamepedia.com/UHF_RFID_Reader",
+        "materials": [
+          {
+            "name": "Virtex programmable processor",
+            "url": "https://escapefromtarkov.gamepedia.com/Virtex_programmable_processor",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0d/Virtex_programmable_processor_Icon.png/revision/latest/scale-to-width-down/64?cb=20190103234723",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Virtex_programmable_processor"
+          },
+          {
+            "name": "TerraGroup Labs access keycard",
+            "url": "https://escapefromtarkov.gamepedia.com/TerraGroup_Labs_access_keycard",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/Terragroup_Labs_access_keycard_icon.png/revision/latest/scale-to-width-down/64?cb=20190409181403",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/TerraGroup_Labs_access_keycard"
+          },
+          {
+            "name": "Signal Jammer",
+            "url": "https://escapefromtarkov.gamepedia.com/Signal_Jammer",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/Signal_Jammer_icon.png/revision/latest/scale-to-width-down/64?cb=20180510235026",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Signal_Jammer"
+          }
+        ]
+      },
+      {
+        "level": "Intelligence Center level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Folder with intelligence",
+        "time": "Intelligence Center level 3\n31 h 40 min",
+        "mults": "x3\nSecure Flash drive",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/85/FolderWithIntelligence_Icon.png/revision/latest/scale-to-width-down/127?cb=20181226152348",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Folder_with_intelligence",
+        "num_craftables": "x1\nFolder with intelligence",
+        "url": "https://escapefromtarkov.gamepedia.com/Folder_with_intelligence",
+        "materials": [
+          {
+            "name": "Secure Flash drive",
+            "url": "https://escapefromtarkov.gamepedia.com/Secure_Flash_drive",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b7/Secure_Flash_drive_Icon.png/revision/latest/scale-to-width-down/64?cb=20190604184656",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Secure_Flash_drive"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Lavatory",
+    "craftable": [
+      {
+        "level": "Lavatory level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Air filter for gas mask",
+        "time": "Lavatory level 1\n2 minutes",
+        "mults": "x1\nGP-5 gasmask",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/Airfiltericon.png/revision/latest/scale-to-width-down/127?cb=20190604184714",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Air_filter_for_gas_mask",
+        "num_craftables": "x1\nAir filter for gas mask",
+        "url": "https://escapefromtarkov.gamepedia.com/Air_filter_for_gas_mask",
+        "materials": [
+          {
+            "name": "GP-5 gasmask",
+            "url": "https://escapefromtarkov.gamepedia.com/GP-5_gasmask",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b9/GP-5_Icon.png/revision/latest/scale-to-width-down/127?cb=20190319185242",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/GP-5_gasmask"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Army bandage",
+        "time": "Lavatory level 1\n16 minutes",
+        "mults": "x5\nAseptic bandage\n+\nx1\nBottle of vodka Tarkovskaya",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/EFT_Army-Bandage_Icon.png/revision/latest/scale-to-width-down/64?cb=20181229224554",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Army_bandage",
+        "num_craftables": "x10\nArmy bandage",
+        "url": "https://escapefromtarkov.gamepedia.com/Army_bandage",
+        "materials": [
+          {
+            "name": "Aseptic bandage",
+            "url": "https://escapefromtarkov.gamepedia.com/Aseptic_bandage",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/11/EFT_Aseptic-Bandage_Icon.png/revision/latest/scale-to-width-down/64?cb=20181110225317",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Aseptic_bandage"
+          },
+          {
+            "name": "Bottle of vodka Tarkovskaya",
+            "url": "https://escapefromtarkov.gamepedia.com/Bottle_of_vodka_Tarkovskaya",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/VodkaIcon.png/revision/latest/scale-to-width-down/64?cb=20200502202519",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Bottle_of_vodka_Tarkovskaya"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Lavatory",
+        "name": "Toilet paper",
+        "time": "Lavatory level 1\n26 minutes",
+        "mults": "x1\nPrinter paper",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Toilet_paper_icon.png/revision/latest/scale-to-width-down/64?cb=20190604183136",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Toilet_paper",
+        "num_craftables": "x2\nToilet paper",
+        "url": "https://escapefromtarkov.gamepedia.com/Toilet_paper",
+        "materials": [
+          {
+            "name": "Printer paper",
+            "url": "https://escapefromtarkov.gamepedia.com/Printer_paper",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d2/Printer_Paper_icon.png/revision/latest/scale-to-width-down/127?cb=20191120215511",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Printer_paper"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Aseptic bandage",
+        "time": "Lavatory level 1\n31 minutes",
+        "mults": "x1\nFleece cloth",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/11/EFT_Aseptic-Bandage_Icon.png/revision/latest/scale-to-width-down/64?cb=20181110225317",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Aseptic_bandage",
+        "num_craftables": "x6\nAseptic bandage",
+        "url": "https://escapefromtarkov.gamepedia.com/Aseptic_bandage",
+        "materials": [
+          {
+            "name": "Fleece cloth",
+            "url": "https://escapefromtarkov.gamepedia.com/Fleece_cloth",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Fleece_Icon.png/revision/latest/scale-to-width-down/127?cb=20200315215520",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Fleece_cloth"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Ripstop cloth",
+        "time": "Lavatory level 1\n36 minutes",
+        "mults": "x3\nScav Vest",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/Ripstop_icon.png/revision/latest/scale-to-width-down/127?cb=20200315220528",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Ripstop_cloth",
+        "num_craftables": "x2\nRipstop cloth",
+        "url": "https://escapefromtarkov.gamepedia.com/Ripstop_cloth",
+        "materials": [
+          {
+            "name": "Scav Vest",
+            "url": "https://escapefromtarkov.gamepedia.com/Scav_Vest",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/39/Scav_Vest_icon.png/revision/latest/scale-to-width-down/127?cb=20190517215835",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Scav_Vest"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Scav Backpack",
+        "time": "Lavatory level 1\n55 minutes",
+        "mults": "x1\nFleece cloth\n+\nx1\nRipstop cloth",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/34/ScavBP_Icon.png/revision/latest/scale-to-width-down/180?cb=20190517215057",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Scav_Backpack",
+        "num_craftables": "x2\nScav Backpack",
+        "url": "https://escapefromtarkov.gamepedia.com/Scav_Backpack",
+        "materials": [
+          {
+            "name": "Fleece cloth",
+            "url": "https://escapefromtarkov.gamepedia.com/Fleece_cloth",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Fleece_Icon.png/revision/latest/scale-to-width-down/127?cb=20200315215520",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Fleece_cloth"
+          },
+          {
+            "name": "Ripstop cloth",
+            "url": "https://escapefromtarkov.gamepedia.com/Ripstop_cloth",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/Ripstop_icon.png/revision/latest/scale-to-width-down/127?cb=20200315220528",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Ripstop_cloth"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Expeditionary fuel tank",
+        "time": "Lavatory level 2\n28 minutes",
+        "mults": "x6\nZibbo lighter\n+\nx8\nCrickent lighter",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/Expeditionary-fuel-tank-icon.png/revision/latest/scale-to-width-down/127?cb=20200502194510",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Expeditionary_fuel_tank",
+        "num_craftables": "x1\nExpeditionary fuel tank",
+        "url": "https://escapefromtarkov.gamepedia.com/Expeditionary_fuel_tank",
+        "materials": [
+          {
+            "name": "Zibbo lighter",
+            "url": "https://escapefromtarkov.gamepedia.com/Zibbo_lighter",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/Zibbo_lighter_Icon.png/revision/latest/scale-to-width-down/64?cb=20200827160258",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Zibbo_lighter"
+          },
+          {
+            "name": "Crickent lighter",
+            "url": "https://escapefromtarkov.gamepedia.com/Crickent_lighter",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/Cricket_lighter_Icon.png/revision/latest/scale-to-width-down/64?cb=20191120235407",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Crickent_lighter"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Schaman shampoo",
+        "time": "Lavatory level 2\n35 minutes",
+        "mults": "x1\nSoap\n+\nx1\n0.6L water bottle",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/78/Shampoo_icon.png/revision/latest/scale-to-width-down/64?cb=20191029134906",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Schaman_shampoo",
+        "num_craftables": "x2\nSchaman shampoo",
+        "url": "https://escapefromtarkov.gamepedia.com/Schaman_shampoo",
+        "materials": [
+          {
+            "name": "Soap",
+            "url": "https://escapefromtarkov.gamepedia.com/Soap",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/95/Soap_icon.png/revision/latest/scale-to-width-down/64?cb=20190604183127",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Soap"
+          },
+          {
+            "name": "0.6L water bottle",
+            "url": "https://escapefromtarkov.gamepedia.com/0.6L_water_bottle",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/Water_icon.png/revision/latest/scale-to-width-down/64?cb=20181108092840",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/0.6L_water_bottle"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Ox bleach",
+        "time": "Lavatory level 2\n38 minutes",
+        "mults": "x1\nSoap\n+\nx1\nHeat-exchange alkali surface washer\n+\nx1\nSodium bicarbonate",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/Bleachicon.png/revision/latest/scale-to-width-down/64?cb=20190604182553",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Ox_bleach",
+        "num_craftables": "x5\nOx bleach",
+        "url": "https://escapefromtarkov.gamepedia.com/Ox_bleach",
+        "materials": [
+          {
+            "name": "Soap",
+            "url": "https://escapefromtarkov.gamepedia.com/Soap",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/95/Soap_icon.png/revision/latest/scale-to-width-down/64?cb=20190604183127",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Soap"
+          },
+          {
+            "name": "Heat-exchange alkali surface washer",
+            "url": "https://escapefromtarkov.gamepedia.com/Heat-exchange_alkali_surface_washer",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b3/Heat-exchange_alkali_surface_washer_icon.png/revision/latest/scale-to-width-down/64?cb=20190604184107",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Heat-exchange_alkali_surface_washer"
+          },
+          {
+            "name": "Sodium bicarbonate",
+            "url": "https://escapefromtarkov.gamepedia.com/Sodium_bicarbonate",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/84/Sodium_Bicarbonate_icon.png/revision/latest/scale-to-width-down/64?cb=20190604182810",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Sodium_bicarbonate"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Clin wiper",
+        "time": "Lavatory level 2\n40 minutes",
+        "mults": "x1\nBottle of vodka Tarkovskaya\n+\nx1\nSchaman shampoo",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/Clin_Wiper_icon.png/revision/latest/scale-to-width-down/64?cb=20190604181429",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Clin_wiper",
+        "num_craftables": "x1\nClin wiper",
+        "url": "https://escapefromtarkov.gamepedia.com/Clin_wiper",
+        "materials": [
+          {
+            "name": "Bottle of vodka Tarkovskaya",
+            "url": "https://escapefromtarkov.gamepedia.com/Bottle_of_vodka_Tarkovskaya",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/VodkaIcon.png/revision/latest/scale-to-width-down/64?cb=20200502202519",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Bottle_of_vodka_Tarkovskaya"
+          },
+          {
+            "name": "Schaman shampoo",
+            "url": "https://escapefromtarkov.gamepedia.com/Schaman_shampoo",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/78/Shampoo_icon.png/revision/latest/scale-to-width-down/64?cb=20191029134906",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Schaman_shampoo"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Splav Tarzan M22 Rig",
+        "time": "Lavatory level 2\n46 minutes",
+        "mults": "x1\nPolyamide fabric Cordura\n+\nx1\nRipstop cloth",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bd/Tarzan_icon.png/revision/latest/scale-to-width-down/180?cb=20200317181341",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Splav_Tarzan_M22_Rig",
+        "num_craftables": "x1\nSplav Tarzan M22 Rig",
+        "url": "https://escapefromtarkov.gamepedia.com/Splav_Tarzan_M22_Rig",
+        "materials": [
+          {
+            "name": "Polyamide fabric Cordura",
+            "url": "https://escapefromtarkov.gamepedia.com/Polyamide_fabric_Cordura",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/08/Cordura_Icon.png/revision/latest/scale-to-width-down/127?cb=20200315224148",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Polyamide_fabric_Cordura"
+          },
+          {
+            "name": "Ripstop cloth",
+            "url": "https://escapefromtarkov.gamepedia.com/Ripstop_cloth",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/Ripstop_icon.png/revision/latest/scale-to-width-down/127?cb=20200315220528",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Ripstop_cloth"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Module-3M bodyarmor",
+        "time": "Lavatory level 2\n54 minutes",
+        "mults": "x2\nAramid fiber cloth\n+\nx2\nRipstop cloth",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f8/3M_icon.png/revision/latest/scale-to-width-down/180?cb=20190519124804",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Module-3M_bodyarmor",
+        "num_craftables": "x1\nModule-3M bodyarmor",
+        "url": "https://escapefromtarkov.gamepedia.com/Module-3M_bodyarmor",
+        "materials": [
+          {
+            "name": "Aramid fiber cloth",
+            "url": "https://escapefromtarkov.gamepedia.com/Aramid_fiber_cloth",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c6/Aramid_Icon_.png/revision/latest/scale-to-width-down/127?cb=20200315215522",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Aramid_fiber_cloth"
+          },
+          {
+            "name": "Ripstop cloth",
+            "url": "https://escapefromtarkov.gamepedia.com/Ripstop_cloth",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/Ripstop_icon.png/revision/latest/scale-to-width-down/127?cb=20200315220528",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Ripstop_cloth"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "60-round 6L31 5.45x39 magazine for AK-74",
+        "time": "Lavatory level 2\n1 h 23 min",
+        "mults": "x4\n30-round 6L23 5.45x39 magazine for AK-74\n+\nx1\nKEKTAPE duct tape",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/6L31-60-mag_icon.png/revision/latest/scale-to-width-down/64?cb=20190915092935",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/60-round_6L31_5.45x39_magazine_for_AK-74_and_compatibles",
+        "num_craftables": "x1\n60-round 6L31 5.45x39 magazine for AK-74",
+        "url": "https://escapefromtarkov.gamepedia.com/60-round_6L31_5.45x39_magazine_for_AK-74_and_compatibles",
+        "materials": [
+          {
+            "name": "30-round 6L23 5.45x39 magazine for AK-74",
+            "url": "https://escapefromtarkov.gamepedia.com/30-round_6L23_5.45x39_magazine_for_AK-74_and_compatibles",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/03/30rndakplastic.png/revision/latest/scale-to-width-down/64?cb=20200325212014",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/30-round_6L23_5.45x39_magazine_for_AK-74_and_compatibles"
+          },
+          {
+            "name": "KEKTAPE duct tape",
+            "url": "https://escapefromtarkov.gamepedia.com/KEKTAPE_duct_tape",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/KEKTape_icon.png/revision/latest/scale-to-width-down/64?cb=20200314195751",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/KEKTAPE_duct_tape"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "WD-40 100ml.",
+        "time": "Lavatory level 2\n2 h 30 min",
+        "mults": "x1\nWD-40 400ml\n+\nx1\nMetal cutting scissors",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/WD40_100ml_Icon.png/revision/latest/scale-to-width-down/64?cb=20190604142359",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/WD-40_100ml.",
+        "num_craftables": "x2\nWD-40 100ml.",
+        "url": "https://escapefromtarkov.gamepedia.com/WD-40_100ml.",
+        "materials": [
+          {
+            "name": "WD-40 400ml",
+            "url": "https://escapefromtarkov.gamepedia.com/WD-40_400ml",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2d/Wd-40400icon.png/revision/latest/scale-to-width-down/64?cb=20190604142205",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/WD-40_400ml"
+          },
+          {
+            "name": "Metal cutting scissors",
+            "url": "https://escapefromtarkov.gamepedia.com/Metal_cutting_scissors",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/Metal_cutting_scissors_icon.png/revision/latest/scale-to-width-down/64?cb=20191030130328",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Metal_cutting_scissors"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Corrugated hose",
+        "time": "Lavatory level 2\n3 h 21 min",
+        "mults": "x1\nSilicone tube\n+\nx3\nWires\n+\nx3\nInsulating tape",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Hoseicon.png/revision/latest/scale-to-width-down/127?cb=20190604135113",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Corrugated_hose",
+        "num_craftables": "x2\nCorrugated hose",
+        "url": "https://escapefromtarkov.gamepedia.com/Corrugated_hose",
+        "materials": [
+          {
+            "name": "Silicone tube",
+            "url": "https://escapefromtarkov.gamepedia.com/Silicone_tube",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/SiliconeTubeIcon.png/revision/latest/scale-to-width-down/64?cb=20200429182441",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Silicone_tube"
+          },
+          {
+            "name": "Wires",
+            "url": "https://escapefromtarkov.gamepedia.com/Wires",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png/revision/latest/scale-to-width-down/64?cb=20200618220155",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Wires"
+          },
+          {
+            "name": "Insulating tape",
+            "url": "https://escapefromtarkov.gamepedia.com/Insulating_tape",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/Insulating_tape_Icon.png/revision/latest/scale-to-width-down/64?cb=20190517102906",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Insulating_tape"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Magazine case",
+        "time": "Lavatory level 2\n4 h 52 min",
+        "mults": "x2\nExpeditionary fuel tank\n+\nx1\nMetal cutting scissors\n+\nx3\nBolts\n+\nx3\nScrew nut",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/Magbox_icon.png/revision/latest/scale-to-width-down/180?cb=20190106223602",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Magazine_case",
+        "num_craftables": "x1\nMagazine case",
+        "url": "https://escapefromtarkov.gamepedia.com/Magazine_case",
+        "materials": [
+          {
+            "name": "Expeditionary fuel tank",
+            "url": "https://escapefromtarkov.gamepedia.com/Expeditionary_fuel_tank",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/Expeditionary-fuel-tank-icon.png/revision/latest/scale-to-width-down/127?cb=20200502194510",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Expeditionary_fuel_tank"
+          },
+          {
+            "name": "Metal cutting scissors",
+            "url": "https://escapefromtarkov.gamepedia.com/Metal_cutting_scissors",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/Metal_cutting_scissors_icon.png/revision/latest/scale-to-width-down/64?cb=20191030130328",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Metal_cutting_scissors"
+          },
+          {
+            "name": "Bolts",
+            "url": "https://escapefromtarkov.gamepedia.com/Bolts",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Boltsicon.png/revision/latest/scale-to-width-down/64?cb=20190604135942",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Bolts"
+          },
+          {
+            "name": "Screw nut",
+            "url": "https://escapefromtarkov.gamepedia.com/Screw_nut",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cd/Screwnuticon.png/revision/latest/scale-to-width-down/64?cb=20190517102822",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Screw_nut"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Lucky Scav Junkbox",
+        "time": "Lavatory level 2\n11 h 23 min",
+        "mults": "x3\nMagazine case\n+\nx1\nMetal cutting scissors\n+\nx6\nBolts\n+\nx3\nKEKTAPE duct tape",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/39/Junkbox.png/revision/latest/scale-to-width-down/180?cb=20181225203201",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Lucky_Scav_Junkbox",
+        "num_craftables": "x1\nLucky Scav Junkbox",
+        "url": "https://escapefromtarkov.gamepedia.com/Lucky_Scav_Junkbox",
+        "materials": [
+          {
+            "name": "Magazine case",
+            "url": "https://escapefromtarkov.gamepedia.com/Magazine_case",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/Magbox_icon.png/revision/latest/scale-to-width-down/180?cb=20190106223602",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Magazine_case"
+          },
+          {
+            "name": "Metal cutting scissors",
+            "url": "https://escapefromtarkov.gamepedia.com/Metal_cutting_scissors",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/Metal_cutting_scissors_icon.png/revision/latest/scale-to-width-down/64?cb=20191030130328",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Metal_cutting_scissors"
+          },
+          {
+            "name": "Bolts",
+            "url": "https://escapefromtarkov.gamepedia.com/Bolts",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Boltsicon.png/revision/latest/scale-to-width-down/64?cb=20190604135942",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Bolts"
+          },
+          {
+            "name": "KEKTAPE duct tape",
+            "url": "https://escapefromtarkov.gamepedia.com/KEKTAPE_duct_tape",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/KEKTape_icon.png/revision/latest/scale-to-width-down/64?cb=20200314195751",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/KEKTAPE_duct_tape"
+          }
+        ]
+      },
+      {
+        "level": "Lavatory level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "FP-100 filter absorber",
+        "time": "Lavatory level 3\n2 h 36 min",
+        "mults": "x2\nAir filter for gas mask\n+\nx2\nWater filter\n+\nx1\nA set of tools",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/FP-100_filter_absorber_icon.png/revision/latest/scale-to-width-down/180?cb=20191028210831",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/FP-100_filter_absorber",
+        "num_craftables": "x1\nFP-100 filter absorber",
+        "url": "https://escapefromtarkov.gamepedia.com/FP-100_filter_absorber",
+        "materials": [
+          {
+            "name": "Air filter for gas mask",
+            "url": "https://escapefromtarkov.gamepedia.com/Air_filter_for_gas_mask",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/Airfiltericon.png/revision/latest/scale-to-width-down/127?cb=20190604184714",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Air_filter_for_gas_mask"
+          },
+          {
+            "name": "Water filter",
+            "url": "https://escapefromtarkov.gamepedia.com/Water_filter",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Water_filter_icon.png/revision/latest/scale-to-width-down/64?cb=20200502195358",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Water_filter"
+          },
+          {
+            "name": "A set of tools",
+            "url": "https://escapefromtarkov.gamepedia.com/A_set_of_tools",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Toolsicon.png/revision/latest/scale-to-width-down/127?cb=20190604184314",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/A_set_of_tools"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Medstation",
+    "craftable": [
+      {
+        "level": "Medstation level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "AI-2 medikit",
+        "time": "Medstation level 1\n22 minutes",
+        "mults": "x1\nPile of meds",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/AI-2_Icon.png/revision/latest/scale-to-width-down/64?cb=20181108092224",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/AI-2_medikit",
+        "num_craftables": "x3\nAI-2 medikit",
+        "url": "https://escapefromtarkov.gamepedia.com/AI-2_medikit",
+        "materials": [
+          {
+            "name": "Pile of meds",
+            "url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Pile_of_meds_icon.png/revision/latest/scale-to-width-down/64?cb=20191030163116",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds"
+          }
+        ]
+      },
+      {
+        "level": "Medstation level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Salewa FIRST AID KIT",
+        "time": "Medstation level 1\n32 minutes",
+        "mults": "x2\nAnalgin painkillers\n+\nx2\nAseptic bandage\n+\nx1\nImmobilizing splint",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/EFT_Salewa-First-Aid-Kit_Icon_2.png/revision/latest/scale-to-width-down/64?cb=20181108092455",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Salewa_FIRST_AID_KIT",
+        "num_craftables": "x1\nSalewa FIRST AID KIT",
+        "url": "https://escapefromtarkov.gamepedia.com/Salewa_FIRST_AID_KIT",
+        "materials": [
+          {
+            "name": "Analgin painkillers",
+            "url": "https://escapefromtarkov.gamepedia.com/Analgin_painkillers",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e0/EFT_Painkillers_Icon.png/revision/latest/scale-to-width-down/64?cb=20181225203435",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Analgin_painkillers"
+          },
+          {
+            "name": "Aseptic bandage",
+            "url": "https://escapefromtarkov.gamepedia.com/Aseptic_bandage",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/11/EFT_Aseptic-Bandage_Icon.png/revision/latest/scale-to-width-down/64?cb=20181110225317",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Aseptic_bandage"
+          },
+          {
+            "name": "Immobilizing splint",
+            "url": "https://escapefromtarkov.gamepedia.com/Immobilizing_splint",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/26/EFT_Splint_Icon.png/revision/latest/scale-to-width-down/64?cb=20181108092355",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Immobilizing_splint"
+          }
+        ]
+      },
+      {
+        "level": "Medstation level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Medical bloodset",
+        "time": "Medstation level 2\n27 minutes",
+        "mults": "x1\nSilicone tube\n+\nx2\nDisposable syringe",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/Medical_Bloodset_Icon.png/revision/latest/scale-to-width-down/64?cb=20191121081110",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Medical_bloodset",
+        "num_craftables": "x1\nMedical bloodset",
+        "url": "https://escapefromtarkov.gamepedia.com/Medical_bloodset",
+        "materials": [
+          {
+            "name": "Silicone tube",
+            "url": "https://escapefromtarkov.gamepedia.com/Silicone_tube",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/SiliconeTubeIcon.png/revision/latest/scale-to-width-down/64?cb=20200429182441",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Silicone_tube"
+          },
+          {
+            "name": "Disposable syringe",
+            "url": "https://escapefromtarkov.gamepedia.com/Disposable_syringe",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/DisposableSyringeIcon.png/revision/latest/scale-to-width-down/64?cb=20191030165346",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Disposable_syringe"
+          }
+        ]
+      },
+      {
+        "level": "Medstation level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Pile of meds",
+        "time": "Medstation level 2\n48 minutes",
+        "mults": "x1\nAI-2 medikit\n+\nx1\nAseptic bandage\n+\nx1\nAugmentin antibiotic pills",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Pile_of_meds_icon.png/revision/latest/scale-to-width-down/64?cb=20191030163116",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds",
+        "num_craftables": "x3\nPile of meds",
+        "url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds",
+        "materials": [
+          {
+            "name": "AI-2 medikit",
+            "url": "https://escapefromtarkov.gamepedia.com/AI-2_medikit",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/AI-2_Icon.png/revision/latest/scale-to-width-down/64?cb=20181108092224",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/AI-2_medikit"
+          },
+          {
+            "name": "Aseptic bandage",
+            "url": "https://escapefromtarkov.gamepedia.com/Aseptic_bandage",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/11/EFT_Aseptic-Bandage_Icon.png/revision/latest/scale-to-width-down/64?cb=20181110225317",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Aseptic_bandage"
+          },
+          {
+            "name": "Augmentin antibiotic pills",
+            "url": "https://escapefromtarkov.gamepedia.com/Augmentin_antibiotic_pills",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2c/EFT_Augmentin-antibiotic-pills_Icon.png/revision/latest/scale-to-width-down/64?cb=20181110225235",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Augmentin_antibiotic_pills"
+          }
+        ]
+      },
+      {
+        "level": "Medstation level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Combat stimulant injector SJ1 TGLabs",
+        "time": "Medstation level 2\n49 minutes",
+        "mults": "x7\nPile of meds\n+\nx2\nSaline solution\n+\nx3\nPropital\n+\nx1\nMorphine injector",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ab/Combat_stimulant_SJ1_icon.png/revision/latest/scale-to-width-down/64?cb=20181228104353",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Combat_stimulant_injector_SJ1_TGLabs",
+        "num_craftables": "x5\nCombat stimulant injector SJ1 TGLabs",
+        "url": "https://escapefromtarkov.gamepedia.com/Combat_stimulant_injector_SJ1_TGLabs",
+        "materials": [
+          {
+            "name": "Pile of meds",
+            "url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Pile_of_meds_icon.png/revision/latest/scale-to-width-down/64?cb=20191030163116",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds"
+          },
+          {
+            "name": "Saline solution",
+            "url": "https://escapefromtarkov.gamepedia.com/Saline_solution",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1b/Saline_Solution_icon.png/revision/latest/scale-to-width-down/64?cb=20190604182304",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Saline_solution"
+          },
+          {
+            "name": "Propital",
+            "url": "https://escapefromtarkov.gamepedia.com/Propital",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1b/PropitalIcon.png/revision/latest/scale-to-width-down/64?cb=20181227173047",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Propital"
+          },
+          {
+            "name": "Morphine injector",
+            "url": "https://escapefromtarkov.gamepedia.com/Morphine_injector",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/99/EFT_Morphine_Icon.png/revision/latest/scale-to-width-down/64?cb=20181110225358",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Morphine_injector"
+          }
+        ]
+      },
+      {
+        "level": "Medstation level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "IFAK personal tactical first aid kit",
+        "time": "Medstation level 2\n50 minutes",
+        "mults": "x2\nPile of meds\n+\nx2\nArmy bandage",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/20/EFT_IFAK_Icon.png/revision/latest/scale-to-width-down/64?cb=20181110225349",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/IFAK_personal_tactical_first_aid_kit",
+        "num_craftables": "x2\nIFAK personal tactical first aid kit",
+        "url": "https://escapefromtarkov.gamepedia.com/IFAK_personal_tactical_first_aid_kit",
+        "materials": [
+          {
+            "name": "Pile of meds",
+            "url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Pile_of_meds_icon.png/revision/latest/scale-to-width-down/64?cb=20191030163116",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds"
+          },
+          {
+            "name": "Army bandage",
+            "url": "https://escapefromtarkov.gamepedia.com/Army_bandage",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/EFT_Army-Bandage_Icon.png/revision/latest/scale-to-width-down/64?cb=20181229224554",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Army_bandage"
+          }
+        ]
+      },
+      {
+        "level": "Medstation level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Morphine injector",
+        "time": "Medstation level 2\n1 h 12 min",
+        "mults": "x1\nPile of meds\n+\nx1\nAnalgin painkillers\n+\nx1\nDisposable syringe",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/99/EFT_Morphine_Icon.png/revision/latest/scale-to-width-down/64?cb=20181110225358",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Morphine_injector",
+        "num_craftables": "x1\nMorphine injector",
+        "url": "https://escapefromtarkov.gamepedia.com/Morphine_injector",
+        "materials": [
+          {
+            "name": "Pile of meds",
+            "url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Pile_of_meds_icon.png/revision/latest/scale-to-width-down/64?cb=20191030163116",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds"
+          },
+          {
+            "name": "Analgin painkillers",
+            "url": "https://escapefromtarkov.gamepedia.com/Analgin_painkillers",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e0/EFT_Painkillers_Icon.png/revision/latest/scale-to-width-down/64?cb=20181225203435",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Analgin_painkillers"
+          },
+          {
+            "name": "Disposable syringe",
+            "url": "https://escapefromtarkov.gamepedia.com/Disposable_syringe",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/DisposableSyringeIcon.png/revision/latest/scale-to-width-down/64?cb=20191030165346",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Disposable_syringe"
+          }
+        ]
+      },
+      {
+        "level": "Medstation level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Portable defibrillator",
+        "time": "Medstation level 2\n5 h 15 min",
+        "mults": "x2\nMagnet\n+\nx3\nWires\n+\nx4\nCapacitors\n+\nx1\nPowerbank",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/81/Defibrillatoricon.png/revision/latest/scale-to-width-down/64?cb=20190604181808",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Portable_defibrillator",
+        "num_craftables": "x1\nPortable defibrillator",
+        "url": "https://escapefromtarkov.gamepedia.com/Portable_defibrillator",
+        "materials": [
+          {
+            "name": "Magnet",
+            "url": "https://escapefromtarkov.gamepedia.com/Magnet",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/Magnet_Icon.png/revision/latest/scale-to-width-down/64?cb=20190604181445",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Magnet"
+          },
+          {
+            "name": "Wires",
+            "url": "https://escapefromtarkov.gamepedia.com/Wires",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png/revision/latest/scale-to-width-down/64?cb=20200618220155",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Wires"
+          },
+          {
+            "name": "Capacitors",
+            "url": "https://escapefromtarkov.gamepedia.com/Capacitors",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/Capacitorsicon.png/revision/latest/scale-to-width-down/64?cb=20181227201634",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Capacitors"
+          },
+          {
+            "name": "Powerbank",
+            "url": "https://escapefromtarkov.gamepedia.com/Powerbank",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/PowerbankIcon.png/revision/latest/scale-to-width-down/64?cb=20190604185105",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Powerbank"
+          }
+        ]
+      },
+      {
+        "level": "Medstation level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Vaseline",
+        "time": "Medstation level 3\n55 minutes",
+        "mults": "x3\nSoap\n+\nx1\nSchaman shampoo\n+\nx1\nPile of meds",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/EFT_Vaseline_Icon.png/revision/latest/scale-to-width-down/64?cb=20181227204507",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Vaseline",
+        "num_craftables": "x2\nVaseline",
+        "url": "https://escapefromtarkov.gamepedia.com/Vaseline",
+        "materials": [
+          {
+            "name": "Soap",
+            "url": "https://escapefromtarkov.gamepedia.com/Soap",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/95/Soap_icon.png/revision/latest/scale-to-width-down/64?cb=20190604183127",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Soap"
+          },
+          {
+            "name": "Schaman shampoo",
+            "url": "https://escapefromtarkov.gamepedia.com/Schaman_shampoo",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/78/Shampoo_icon.png/revision/latest/scale-to-width-down/64?cb=20191029134906",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Schaman_shampoo"
+          },
+          {
+            "name": "Pile of meds",
+            "url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Pile_of_meds_icon.png/revision/latest/scale-to-width-down/64?cb=20191030163116",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds"
+          }
+        ]
+      },
+      {
+        "level": "Medstation level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Grizzly First Aid Kit",
+        "time": "Medstation level 3\n58 minutes",
+        "mults": "x5\nPile of meds",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/92/EFT_Grizzly_Icon.png/revision/latest/scale-to-width-down/127?cb=20190417074050",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Grizzly_First_Aid_Kit",
+        "num_craftables": "x1\nGrizzly First Aid Kit",
+        "url": "https://escapefromtarkov.gamepedia.com/Grizzly_First_Aid_Kit",
+        "materials": [
+          {
+            "name": "Pile of meds",
+            "url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Pile_of_meds_icon.png/revision/latest/scale-to-width-down/64?cb=20191030163116",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds"
+          }
+        ]
+      },
+      {
+        "level": "Medstation level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Surv12 field surgical kit",
+        "time": "Medstation level 3\n1 h 16 minutes",
+        "mults": "x6\nPile of meds\n+\nx1\nA set of tools",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/Surv12_icon.png/revision/latest/scale-to-width-down/180?cb=20200416105341",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Surv12_field_surgical_kit",
+        "num_craftables": "x2\nSurv12 field surgical kit",
+        "url": "https://escapefromtarkov.gamepedia.com/Surv12_field_surgical_kit",
+        "materials": [
+          {
+            "name": "Pile of meds",
+            "url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Pile_of_meds_icon.png/revision/latest/scale-to-width-down/64?cb=20191030163116",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds"
+          },
+          {
+            "name": "A set of tools",
+            "url": "https://escapefromtarkov.gamepedia.com/A_set_of_tools",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Toolsicon.png/revision/latest/scale-to-width-down/127?cb=20190604184314",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/A_set_of_tools"
+          }
+        ]
+      },
+      {
+        "level": "Medstation level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Propital",
+        "time": "Medstation level 3\n1 h 21 min",
+        "mults": "x1\nIbuprofen painkillers\n+\nx1\nGolden Star Balm\n+\nx2\nPile of meds",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1b/PropitalIcon.png/revision/latest/scale-to-width-down/64?cb=20181227173047",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Propital",
+        "num_craftables": "x7\nPropital",
+        "url": "https://escapefromtarkov.gamepedia.com/Propital",
+        "materials": [
+          {
+            "name": "Ibuprofen painkillers",
+            "url": "https://escapefromtarkov.gamepedia.com/Ibuprofen_painkillers",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/Ibuprofen_painkiller_icon.png/revision/latest/scale-to-width-down/64?cb=20181225203448",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Ibuprofen_painkillers"
+          },
+          {
+            "name": "Golden Star Balm",
+            "url": "https://escapefromtarkov.gamepedia.com/Golden_Star_Balm",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c1/Golden_Star_Balm_Icon.png/revision/latest/scale-to-width-down/64?cb=20181227204344",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Golden_Star_Balm"
+          },
+          {
+            "name": "Pile of meds",
+            "url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Pile_of_meds_icon.png/revision/latest/scale-to-width-down/64?cb=20191030163116",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds"
+          }
+        ]
+      },
+      {
+        "level": "Medstation level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Combat stimulant injector SJ6 TGLabs",
+        "time": "Medstation level 3\n1 h 25 min",
+        "mults": "x1\nCombat stimulant injector SJ1 TGLabs\n+\nx2\nPile of meds\n+\nx1\nSaline solution",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9c/Combat_stimulant_SJ6_icon.png/revision/latest/scale-to-width-down/64?cb=20181228105911",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Combat_stimulant_injector_SJ6_TGLabs",
+        "num_craftables": "x2\nCombat stimulant injector SJ6 TGLabs",
+        "url": "https://escapefromtarkov.gamepedia.com/Combat_stimulant_injector_SJ6_TGLabs",
+        "materials": [
+          {
+            "name": "Combat stimulant injector SJ1 TGLabs",
+            "url": "https://escapefromtarkov.gamepedia.com/Combat_stimulant_injector_SJ1_TGLabs",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ab/Combat_stimulant_SJ1_icon.png/revision/latest/scale-to-width-down/64?cb=20181228104353",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Combat_stimulant_injector_SJ1_TGLabs"
+          },
+          {
+            "name": "Pile of meds",
+            "url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Pile_of_meds_icon.png/revision/latest/scale-to-width-down/64?cb=20191030163116",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pile_of_meds"
+          },
+          {
+            "name": "Saline solution",
+            "url": "https://escapefromtarkov.gamepedia.com/Saline_solution",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1b/Saline_Solution_icon.png/revision/latest/scale-to-width-down/64?cb=20190604182304",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Saline_solution"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Nutrition unit",
+    "craftable": [
+      {
+        "level": "Nutrition unit level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Iskra lunch box",
+        "time": "Nutrition unit level 1\n48 minutes",
+        "mults": "x2\nArmy Crackers\n+\nx1\nCan of beef stew\n+\nx1\nSquash spread",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/Lunchbox_icon.png/revision/latest/scale-to-width-down/64?cb=20181108192424",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Iskra_lunch_box",
+        "num_craftables": "x2\nIskra lunch box",
+        "url": "https://escapefromtarkov.gamepedia.com/Iskra_lunch_box",
+        "materials": [
+          {
+            "name": "Army Crackers",
+            "url": "https://escapefromtarkov.gamepedia.com/Army_Crackers",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/Army_Crackers_icon.png/revision/latest/scale-to-width-down/64?cb=20181112002812",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Army_Crackers"
+          },
+          {
+            "name": "Can of beef stew",
+            "url": "https://escapefromtarkov.gamepedia.com/Can_of_beef_stew",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/Can_of_beef_stew_Icon.png/revision/latest/scale-to-width-down/64?cb=20181108092656",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Can_of_beef_stew"
+          },
+          {
+            "name": "Squash spread",
+            "url": "https://escapefromtarkov.gamepedia.com/Squash_spread",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/Squash_Spread_icon.png/revision/latest/scale-to-width-down/64?cb=20181112002724",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Squash_spread"
+          }
+        ]
+      },
+      {
+        "level": "Nutrition unit level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Slickers bar",
+        "time": "Nutrition unit level 2\n1 h 11 min",
+        "mults": "x1\nAlyonka chocolate bar\n+\nx1\nPack of oat flakes\n+\nx1\nArmy Crackers",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/93/Slickers_bar_icon.png/revision/latest/scale-to-width-down/64?cb=20181112002758",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Slickers_bar",
+        "num_craftables": "x7\nSlickers bar",
+        "url": "https://escapefromtarkov.gamepedia.com/Slickers_bar",
+        "materials": [
+          {
+            "name": "Alyonka chocolate bar",
+            "url": "https://escapefromtarkov.gamepedia.com/Alyonka_chocolate_bar",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Alyonka_Chocolate_Bar_icon.png/revision/latest/scale-to-width-down/64?cb=20181111181203",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Alyonka_chocolate_bar"
+          },
+          {
+            "name": "Pack of oat flakes",
+            "url": "https://escapefromtarkov.gamepedia.com/Pack_of_oat_flakes",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/Oatflakes_icon.png/revision/latest/scale-to-width-down/64?cb=20181112223051",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pack_of_oat_flakes"
+          },
+          {
+            "name": "Army Crackers",
+            "url": "https://escapefromtarkov.gamepedia.com/Army_Crackers",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/Army_Crackers_icon.png/revision/latest/scale-to-width-down/64?cb=20181112002812",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Army_Crackers"
+          }
+        ]
+      },
+      {
+        "level": "Nutrition unit level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Can of beef stew",
+        "time": "Nutrition unit level 1\n1 h 18 min",
+        "mults": "x1\nCan of delicious beef stew\n+\nx1\nSquash spread\n+\nx1\nRye croutons",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/Can_of_beef_stew_Icon.png/revision/latest/scale-to-width-down/64?cb=20181108092656",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Can_of_beef_stew",
+        "num_craftables": "x2\nCan of beef stew",
+        "url": "https://escapefromtarkov.gamepedia.com/Can_of_beef_stew",
+        "materials": [
+          {
+            "name": "Can of delicious beef stew",
+            "url": "https://escapefromtarkov.gamepedia.com/Can_of_delicious_beef_stew",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ad/Can_of_beef_stew_alt_Icon.png/revision/latest/scale-to-width-down/64?cb=20181112155053",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Can_of_delicious_beef_stew"
+          },
+          {
+            "name": "Squash spread",
+            "url": "https://escapefromtarkov.gamepedia.com/Squash_spread",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/Squash_Spread_icon.png/revision/latest/scale-to-width-down/64?cb=20181112002724",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Squash_spread"
+          },
+          {
+            "name": "Rye croutons",
+            "url": "https://escapefromtarkov.gamepedia.com/Rye_croutons",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/Rye_Croutons.png/revision/latest/scale-to-width-down/64?cb=20200618220209",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Rye_croutons"
+          }
+        ]
+      },
+      {
+        "level": "Nutrition unit level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Condensed milk",
+        "time": "Nutrition unit level 2\n1 h 21 min",
+        "mults": "x1\nPack of sugar\n+\nx1\nPack of milk",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c0/Condmilkicon.png/revision/latest/scale-to-width-down/64?cb=20181112004231",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Condensed_milk",
+        "num_craftables": "x3\nCondensed milk",
+        "url": "https://escapefromtarkov.gamepedia.com/Condensed_milk",
+        "materials": [
+          {
+            "name": "Pack of sugar",
+            "url": "https://escapefromtarkov.gamepedia.com/Pack_of_sugar",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/Sugar_icon.png/revision/latest/scale-to-width-down/64?cb=20181111180801",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pack_of_sugar"
+          },
+          {
+            "name": "Pack of milk",
+            "url": "https://escapefromtarkov.gamepedia.com/Pack_of_milk",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d3/Pack_ofMilk_icon.png/revision/latest/scale-to-width-down/64?cb=20181109185511",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pack_of_milk"
+          }
+        ]
+      },
+      {
+        "level": "Nutrition unit level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Pack of sugar",
+        "time": "Nutrition unit level 2\n1 h 23 min",
+        "mults": "x2\nAlyonka chocolate bar",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/Sugar_icon.png/revision/latest/scale-to-width-down/64?cb=20181111180801",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Pack_of_sugar",
+        "num_craftables": "x1\nPack of sugar",
+        "url": "https://escapefromtarkov.gamepedia.com/Pack_of_sugar",
+        "materials": [
+          {
+            "name": "Alyonka chocolate bar",
+            "url": "https://escapefromtarkov.gamepedia.com/Alyonka_chocolate_bar",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Alyonka_Chocolate_Bar_icon.png/revision/latest/scale-to-width-down/64?cb=20181111181203",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Alyonka_chocolate_bar"
+          }
+        ]
+      },
+      {
+        "level": "Nutrition unit level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Wilston cigarettes",
+        "time": "Nutrition unit level 2\n1 h 41 min",
+        "mults": "x1\nApollon Soyuz cigarettes\n+\nx1\n42nd Signature Blend English Tea",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/Wilstonicon.png/revision/latest/scale-to-width-down/64?cb=20191125140129",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Wilston_cigarettes",
+        "num_craftables": "x5\nWilston cigarettes",
+        "url": "https://escapefromtarkov.gamepedia.com/Wilston_cigarettes",
+        "materials": [
+          {
+            "name": "Apollon Soyuz cigarettes",
+            "url": "https://escapefromtarkov.gamepedia.com/Apollon_Soyuz_cigarettes",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cc/Apollon_Soyuz_cigarettes_Icon.png/revision/latest/scale-to-width-down/64?cb=20191125135910",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Apollon_Soyuz_cigarettes"
+          },
+          {
+            "name": "42nd Signature Blend English Tea",
+            "url": "https://escapefromtarkov.gamepedia.com/42nd_Signature_Blend_English_Tea",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/EnglishTeaIcon.png/revision/latest/scale-to-width-down/64?cb=20190604185056",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/42nd_Signature_Blend_English_Tea"
+          }
+        ]
+      },
+      {
+        "level": "Nutrition level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Max energy",
+        "time": "Nutrition level 2\n1 h 48 min",
+        "mults": "x1\nTarCola\n+\nx1\nCoffee Majaica\n+\nx1\n0.6L water bottle",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ec/NRG_Drink_icon.png/revision/latest/scale-to-width-down/64?cb=20181109190048",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Max_energy",
+        "num_craftables": "x4\nMax energy",
+        "url": "https://escapefromtarkov.gamepedia.com/Max_energy",
+        "materials": [
+          {
+            "name": "TarCola",
+            "url": "https://escapefromtarkov.gamepedia.com/TarCola",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/Tar_Cola_icon.png/revision/latest/scale-to-width-down/64?cb=20181109185825",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/TarCola"
+          },
+          {
+            "name": "Coffee Majaica",
+            "url": "https://escapefromtarkov.gamepedia.com/Coffee_Majaica",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/14/Coffeicon.png/revision/latest/scale-to-width-down/64?cb=20200502195427",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Coffee_Majaica"
+          },
+          {
+            "name": "0.6L water bottle",
+            "url": "https://escapefromtarkov.gamepedia.com/0.6L_water_bottle",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/Water_icon.png/revision/latest/scale-to-width-down/64?cb=20181108092840",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/0.6L_water_bottle"
+          }
+        ]
+      },
+      {
+        "level": "Nutrition unit level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Bottle of vodka Tarkovskaya",
+        "time": "Nutrition unit level 3\n1 h 35 min",
+        "mults": "x1\n\"Fierce Hatchling\" moonshine\n+\nx5\n0.6L water bottle",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/VodkaIcon.png/revision/latest/scale-to-width-down/64?cb=20200502202519",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Bottle_of_vodka_Tarkovskaya",
+        "num_craftables": "x10\nBottle of vodka Tarkovskaya",
+        "url": "https://escapefromtarkov.gamepedia.com/Bottle_of_vodka_Tarkovskaya",
+        "materials": [
+          {
+            "name": "\"Fierce Hatchling\" moonshine",
+            "url": "https://escapefromtarkov.gamepedia.com/%22Fierce_Hatchling%22_moonshine",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ad/Fiece_hatchling_moonshine_icon.png/revision/latest/scale-to-width-down/64?cb=20201015201315",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/%22Fierce_Hatchling%22_moonshine"
+          },
+          {
+            "name": "0.6L water bottle",
+            "url": "https://escapefromtarkov.gamepedia.com/0.6L_water_bottle",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/Water_icon.png/revision/latest/scale-to-width-down/64?cb=20181108092840",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/0.6L_water_bottle"
+          }
+        ]
+      },
+      {
+        "level": "Nutrition unit level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Water bottle with a filter Aquamari",
+        "time": "Nutrition unit level 3\n1 h 50 min",
+        "mults": "x1\nPurified water\n+\nx1\nSilicone tube",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bd/Aquamari_icon.png/revision/latest/scale-to-width-down/64?cb=20191121063447",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Aquamari",
+        "num_craftables": "x8\nWater bottle with a filter Aquamari",
+        "url": "https://escapefromtarkov.gamepedia.com/Water_bottle_with_a_filter_Aquamari",
+        "materials": [
+          {
+            "name": "Purified water",
+            "url": "https://escapefromtarkov.gamepedia.com/Purified_water",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/Purified_water_icon.png/revision/latest/scale-to-width-down/127?cb=20191109111053",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Purified_water"
+          },
+          {
+            "name": "Silicone tube",
+            "url": "https://escapefromtarkov.gamepedia.com/Silicone_tube",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/SiliconeTubeIcon.png/revision/latest/scale-to-width-down/64?cb=20200429182441",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Silicone_tube"
+          }
+        ]
+      },
+      {
+        "level": "Nutrition level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Hot Rod",
+        "time": "Nutrition level 3\n5 h 15 min",
+        "mults": "x1\nPurified water\n+\nx1\nPack of sugar\n+\nx1\nCoffee Majaica\n+\nx1\n42nd Signature Blend English Tea",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/Hor_Rod_icon.png/revision/latest/scale-to-width-down/64?cb=20200606093639",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Hot_Rod",
+        "num_craftables": "x20\nHot Rod",
+        "url": "https://escapefromtarkov.gamepedia.com/Hot_Rod",
+        "materials": [
+          {
+            "name": "Purified water",
+            "url": "https://escapefromtarkov.gamepedia.com/Purified_water",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/Purified_water_icon.png/revision/latest/scale-to-width-down/127?cb=20191109111053",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Purified_water"
+          },
+          {
+            "name": "Pack of sugar",
+            "url": "https://escapefromtarkov.gamepedia.com/Pack_of_sugar",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/Sugar_icon.png/revision/latest/scale-to-width-down/64?cb=20181111180801",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Pack_of_sugar"
+          },
+          {
+            "name": "Coffee Majaica",
+            "url": "https://escapefromtarkov.gamepedia.com/Coffee_Majaica",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/14/Coffeicon.png/revision/latest/scale-to-width-down/64?cb=20200502195427",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Coffee_Majaica"
+          },
+          {
+            "name": "42nd Signature Blend English Tea",
+            "url": "https://escapefromtarkov.gamepedia.com/42nd_Signature_Blend_English_Tea",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/EnglishTeaIcon.png/revision/latest/scale-to-width-down/64?cb=20190604185056",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/42nd_Signature_Blend_English_Tea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Water collector",
+    "craftable": [
+      {
+        "level": "Water collector level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Purified water",
+        "time": "Water collector level 3\n5 h 25 min",
+        "mults": "x1\nWater filter 65/100 HP",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/Purified_water_icon.png/revision/latest/scale-to-width-down/127?cb=20191109111053",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Purified_water",
+        "num_craftables": "x1\nPurified water",
+        "url": "https://escapefromtarkov.gamepedia.com/Purified_water",
+        "materials": [
+          {
+            "name": "Water filter",
+            "url": "https://escapefromtarkov.gamepedia.com/Water_filter",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Water_filter_icon.png/revision/latest/scale-to-width-down/64?cb=20200502195358",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Water_filter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Workbench",
+    "craftable": [
+      {
+        "level": "Workbench level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Broken LCD",
+        "time": "Workbench level 1\n22 minutes",
+        "mults": "x4\nWorking LCD\n+\nx1\nScrewdriver",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/be/Lcd-icon.PNG/revision/latest/scale-to-width-down/64?cb=20200422221943",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Broken_LCD",
+        "num_craftables": "x4\nBroken LCD",
+        "url": "https://escapefromtarkov.gamepedia.com/Broken_LCD",
+        "materials": [
+          {
+            "name": "Working LCD",
+            "url": "https://escapefromtarkov.gamepedia.com/Working_LCD",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ca/Working_LCD_Icon.png/revision/latest/scale-to-width-down/64?cb=20200422223046",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Working_LCD"
+          },
+          {
+            "name": "Screwdriver",
+            "url": "https://escapefromtarkov.gamepedia.com/Screwdriver",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/da/Screwdriver_Icon.png/revision/latest/scale-to-width-down/64?cb=20190604175742",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Screwdriver"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Printed circuit board",
+        "time": "Workbench level 1\n33 minutes",
+        "mults": "x1\nFlat screwdriver\n+\nx1\nDVD drive",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/Circuit_Icon.png/revision/latest/scale-to-width-down/64?cb=20190604174941",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Printed_circuit_board",
+        "num_craftables": "x2\nPrinted circuit board",
+        "url": "https://escapefromtarkov.gamepedia.com/Printed_circuit_board",
+        "materials": [
+          {
+            "name": "Flat screwdriver",
+            "url": "https://escapefromtarkov.gamepedia.com/Flat_screwdriver",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Flat_Screwdriver_Icon.PNG/revision/latest/scale-to-width-down/64?cb=20191121062057",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Flat_screwdriver"
+          },
+          {
+            "name": "DVD drive",
+            "url": "https://escapefromtarkov.gamepedia.com/DVD_drive",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/DVD_drive_Icon.png/revision/latest/scale-to-width-down/127?cb=20200701224701",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/DVD_drive"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Gunpowder \"Hawk\"",
+        "time": "Workbench level 1\n35 minutes",
+        "mults": "x1\nGunpowder \"Kite\"\n+\nx1\nGunpowder \"Eagle\"\n+\nx1\nClassic matches",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/GunpowderHawkIcon.png/revision/latest/scale-to-width-down/64?cb=20200502195244",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22",
+        "num_craftables": "x2\nGunpowder \"Hawk\"",
+        "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22",
+        "materials": [
+          {
+            "name": "Gunpowder \"Kite\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Gunpowder_Icon.png/revision/latest/scale-to-width-down/64?cb=20191028171852",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22"
+          },
+          {
+            "name": "Gunpowder \"Eagle\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22"
+          },
+          {
+            "name": "Classic matches",
+            "url": "https://escapefromtarkov.gamepedia.com/Classic_matches",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/Matches_Icon.png/revision/latest/scale-to-width-down/64?cb=20180909115030",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Classic_matches"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Powercord",
+        "time": "Workbench level 1\n35 minutes",
+        "mults": "x2\nT-Shaped Plug\n+\nx2\nWires\n+\nx1\nInsulating tape",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Powercord_icon.png/revision/latest/scale-to-width-down/127?cb=20190516142419",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Powercord",
+        "num_craftables": "x2\nPowercord",
+        "url": "https://escapefromtarkov.gamepedia.com/Powercord",
+        "materials": [
+          {
+            "name": "T-Shaped Plug",
+            "url": "https://escapefromtarkov.gamepedia.com/T-Shaped_Plug",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/T-Shaped_Plug_Icon.png/revision/latest/scale-to-width-down/64?cb=20191127034101",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/T-Shaped_Plug"
+          },
+          {
+            "name": "Wires",
+            "url": "https://escapefromtarkov.gamepedia.com/Wires",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png/revision/latest/scale-to-width-down/64?cb=20200618220155",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Wires"
+          },
+          {
+            "name": "Insulating tape",
+            "url": "https://escapefromtarkov.gamepedia.com/Insulating_tape",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/Insulating_tape_Icon.png/revision/latest/scale-to-width-down/64?cb=20190517102906",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Insulating_tape"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "VOG-25 Khattabka grenade",
+        "time": "Workbench level 1\n1 h 6 min",
+        "mults": "x5\n40 mm VOG-25\n+\nx5\nUZRGM grenade fuze",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/Vog-25_icon.png/revision/latest/scale-to-width-down/64?cb=20200317025211",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/VOG-25_Khattabka_grenade",
+        "num_craftables": "x8\nVOG-25 Khattabka grenade",
+        "url": "https://escapefromtarkov.gamepedia.com/VOG-25_Khattabka_grenade",
+        "materials": [
+          {
+            "name": "40 mm VOG-25",
+            "url": "https://escapefromtarkov.gamepedia.com/40_mm_VOG-25",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/10/40_VOG-25.png/revision/latest/scale-to-width-down/64?cb=20180607175909",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/40_mm_VOG-25"
+          },
+          {
+            "name": "UZRGM grenade fuze",
+            "url": "https://escapefromtarkov.gamepedia.com/UZRGM_grenade_fuze",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e9/Fuze_icon.png/revision/latest/scale-to-width-down/64?cb=20200317025209",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/UZRGM_grenade_fuze"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Weapon parts",
+        "time": "Workbench level 1\n1 h 18 min",
+        "mults": "x1\nVepr AKM / VPO-209 366TKM carbine",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/WeaponPartsIcon.png/revision/latest/scale-to-width-down/127?cb=20191030221237",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Weapon_parts",
+        "num_craftables": "x2\nWeapon parts",
+        "url": "https://escapefromtarkov.gamepedia.com/Weapon_parts",
+        "materials": [
+          {
+            "name": "Vepr AKM / VPO-209 366TKM carbine",
+            "url": "https://escapefromtarkov.gamepedia.com/Vepr_AKM_/_VPO-209_366TKM_carbine",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/40/VPO-209_icon.png/revision/latest/scale-to-width-down/180?cb=20200209203509",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Vepr_AKM_/_VPO-209_366TKM_carbine"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Gunpowder \"Kite\"",
+        "time": "Workbench level 1\n1 h 29 min",
+        "mults": "x70\n5.45x39 mm PS",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Gunpowder_Icon.png/revision/latest/scale-to-width-down/64?cb=20191028171852",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22",
+        "num_craftables": "x1\nGunpowder \"Kite\"",
+        "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22",
+        "materials": [
+          {
+            "name": "5.45x39 mm PS",
+            "url": "https://escapefromtarkov.gamepedia.com/5.45x39_mm_PS",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/74PSICON.png/revision/latest/scale-to-width-down/64?cb=20190519005532",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/5.45x39_mm_PS"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "12/70 8.5 mm \"Magnum\" Buckshot",
+        "time": "Workbench level 1\n1 h 31 min",
+        "mults": "x1\nGunpowder \"Kite\"\n+\nx1\nClassic matches",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/127065ExpressMagnumIcon.png/revision/latest/scale-to-width-down/64?cb=20191031133629",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/12/70_8.5_mm_%22Magnum%22_Buckshot",
+        "num_craftables": "x120\n12/70 8.5 mm \"Magnum\" Buckshot",
+        "url": "https://escapefromtarkov.gamepedia.com/12/70_8.5_mm_%22Magnum%22_Buckshot",
+        "materials": [
+          {
+            "name": "Gunpowder \"Kite\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Gunpowder_Icon.png/revision/latest/scale-to-width-down/64?cb=20191028171852",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22"
+          },
+          {
+            "name": "Classic matches",
+            "url": "https://escapefromtarkov.gamepedia.com/Classic_matches",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/Matches_Icon.png/revision/latest/scale-to-width-down/64?cb=20180909115030",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Classic_matches"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "9x18 PM mm RG028 gzh",
+        "time": "Workbench level 1\n1 h 43 min",
+        "mults": "x1\nGunpowder \"Kite\"",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/57/9x18RG028GZH.png/revision/latest/scale-to-width-down/64?cb=20190519004332",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/9x18_PM_mm_RG028_gzh",
+        "num_craftables": "x140\n9x18 PM mm RG028 gzh",
+        "url": "https://escapefromtarkov.gamepedia.com/9x18_PM_mm_RG028_gzh",
+        "materials": [
+          {
+            "name": "Gunpowder \"Kite\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Gunpowder_Icon.png/revision/latest/scale-to-width-down/64?cb=20191028171852",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Wires",
+        "time": "Workbench level 1\n1 h 58 min",
+        "mults": "x2\nPowercord",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png/revision/latest/scale-to-width-down/64?cb=20200618220155",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Wires",
+        "num_craftables": "x8\nWires",
+        "url": "https://escapefromtarkov.gamepedia.com/Wires",
+        "materials": [
+          {
+            "name": "Powercord",
+            "url": "https://escapefromtarkov.gamepedia.com/Powercord",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Powercord_icon.png/revision/latest/scale-to-width-down/127?cb=20190516142419",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Powercord"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 1",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Capacitors",
+        "time": "Workbench level 1\n2 h 4 min",
+        "mults": "x1\nPower supply unit\n+\nx1\nScrewdriver",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/Capacitorsicon.png/revision/latest/scale-to-width-down/64?cb=20181227201634",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Capacitors",
+        "num_craftables": "x8\nCapacitors",
+        "url": "https://escapefromtarkov.gamepedia.com/Capacitors",
+        "materials": [
+          {
+            "name": "Power supply unit",
+            "url": "https://escapefromtarkov.gamepedia.com/Power_supply_unit",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/81/Psuicon.png/revision/latest/scale-to-width-down/127?cb=20190604174640",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Power_supply_unit"
+          },
+          {
+            "name": "Screwdriver",
+            "url": "https://escapefromtarkov.gamepedia.com/Screwdriver",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/da/Screwdriver_Icon.png/revision/latest/scale-to-width-down/64?cb=20190604175742",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Screwdriver"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Rechargeable battery",
+        "time": "Workbench level 2\n1 h 13 min",
+        "mults": "x1\nFlat screwdriver\n+\nx1\nPowerbank",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/28/Recicon.png/revision/latest/scale-to-width-down/64?cb=20190604184712",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Rechargeable_battery",
+        "num_craftables": "x2\nRechargeable battery",
+        "url": "https://escapefromtarkov.gamepedia.com/Rechargeable_battery",
+        "materials": [
+          {
+            "name": "Flat screwdriver",
+            "url": "https://escapefromtarkov.gamepedia.com/Flat_screwdriver",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Flat_Screwdriver_Icon.PNG/revision/latest/scale-to-width-down/64?cb=20191121062057",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Flat_screwdriver"
+          },
+          {
+            "name": "Powerbank",
+            "url": "https://escapefromtarkov.gamepedia.com/Powerbank",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/PowerbankIcon.png/revision/latest/scale-to-width-down/64?cb=20190604185105",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Powerbank"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Zarya stun grenade",
+        "time": "Workbench level 2\n1 h 17 min",
+        "mults": "x5\nUZRGM grenade fuze\n+\nx1\nGunpowder \"Kite\"\n+\nx1\nRDG-2B Smoke grenade",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Zarya_stun_grenade_icon.png/revision/latest/scale-to-width-down/64?cb=20180721203445",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Zarya_stun_grenade",
+        "num_craftables": "x5\nZarya stun grenade",
+        "url": "https://escapefromtarkov.gamepedia.com/Zarya_stun_grenade",
+        "materials": [
+          {
+            "name": "UZRGM grenade fuze",
+            "url": "https://escapefromtarkov.gamepedia.com/UZRGM_grenade_fuze",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e9/Fuze_icon.png/revision/latest/scale-to-width-down/64?cb=20200317025209",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/UZRGM_grenade_fuze"
+          },
+          {
+            "name": "Gunpowder \"Kite\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Gunpowder_Icon.png/revision/latest/scale-to-width-down/64?cb=20191028171852",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22"
+          },
+          {
+            "name": "RDG-2B Smoke grenade",
+            "url": "https://escapefromtarkov.gamepedia.com/RDG-2B_Smoke_grenade",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/RDG-2B_Smoke_grenade_icon.png/revision/latest/scale-to-width-down/64?cb=20180721202047",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/RDG-2B_Smoke_grenade"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Electric motor",
+        "time": "Workbench level 2\n1 h 20 min",
+        "mults": "x2\nElectric drill\n+\nx1\nFlat screwdriver\n+\nx1\nScrewdriver",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9f/Electric_motor_icon.png/revision/latest/scale-to-width-down/127?cb=20191029110008",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Electric_motor",
+        "num_craftables": "x1\nElectric motor",
+        "url": "https://escapefromtarkov.gamepedia.com/Electric_motor",
+        "materials": [
+          {
+            "name": "Electric drill",
+            "url": "https://escapefromtarkov.gamepedia.com/Electric_drill",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Electric_Drill_icon.png/revision/latest/scale-to-width-down/127?cb=20190604180057",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Electric_drill"
+          },
+          {
+            "name": "Flat screwdriver",
+            "url": "https://escapefromtarkov.gamepedia.com/Flat_screwdriver",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Flat_Screwdriver_Icon.PNG/revision/latest/scale-to-width-down/64?cb=20191121062057",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Flat_screwdriver"
+          },
+          {
+            "name": "Screwdriver",
+            "url": "https://escapefromtarkov.gamepedia.com/Screwdriver",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/da/Screwdriver_Icon.png/revision/latest/scale-to-width-down/64?cb=20190604175742",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Screwdriver"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "AK-74M 5.45x39 assault rifle",
+        "time": "Workbench level 2\n1 h 23 min",
+        "mults": "x1\nWeapon parts\n+\nx1\nPolymer AK-74 foregrip (6P20 Sb.9)\n+\nx1\nPolymer stock for AK-74M (6P34 Sb.15)",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/AK-74M_icon.png/revision/latest/scale-to-width-down/180?cb=20181106203914",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/AK-74M_5.45x39_assault_rifle",
+        "num_craftables": "x1\nAK-74M 5.45x39 assault rifle",
+        "url": "https://escapefromtarkov.gamepedia.com/AK-74M_5.45x39_assault_rifle",
+        "materials": [
+          {
+            "name": "Weapon parts",
+            "url": "https://escapefromtarkov.gamepedia.com/Weapon_parts",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/WeaponPartsIcon.png/revision/latest/scale-to-width-down/127?cb=20191030221237",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Weapon_parts"
+          },
+          {
+            "name": "Polymer AK-74 foregrip (6P20 Sb.9)",
+            "url": "https://escapefromtarkov.gamepedia.com/Polymer_AK-74_foregrip_(6P20_Sb.9)",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0a/6p20sb9.png/revision/latest/scale-to-width-down/64?cb=20200325220154",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Polymer_AK-74_foregrip_(6P20_Sb.9)"
+          },
+          {
+            "name": "Polymer stock for AK-74M (6P34 Sb.15)",
+            "url": "https://escapefromtarkov.gamepedia.com/Polymer_stock_for_AK-74M_(6P34_Sb.15)",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/68/6p45sb15icon.png/revision/latest/scale-to-width-down/127?cb=20180506164438",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Polymer_stock_for_AK-74M_(6P34_Sb.15)"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "9x18 mm PM PBM",
+        "time": "Workbench level 2\n1 h 25 min",
+        "mults": "x1\nGunpowder \"Kite\"\n+\nx100\n9x18 mm PM Pst gzh",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5d/9x18PBM.png/revision/latest/scale-to-width-down/64?cb=20190519004209",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/9x18_mm_PM_PBM",
+        "num_craftables": "x100\n9x18 mm PM PBM",
+        "url": "https://escapefromtarkov.gamepedia.com/9x18_mm_PM_PBM",
+        "materials": [
+          {
+            "name": "Gunpowder \"Kite\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Gunpowder_Icon.png/revision/latest/scale-to-width-down/64?cb=20191028171852",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22"
+          },
+          {
+            "name": "9x18 mm PM Pst gzh",
+            "url": "https://escapefromtarkov.gamepedia.com/9x18_mm_PM_Pst_gzh",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7a/9x18PSTGZH.png/revision/latest/scale-to-width-down/64?cb=20190519004314",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/9x18_mm_PM_Pst_gzh"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "9x19 mm AP 6.3",
+        "time": "Workbench level 2\n1 h 29 min",
+        "mults": "x100\n9x19 mm Pst gzh\n+\nx1\nGunpowder \"Hawk\"",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c6/9x19ap.png/revision/latest/scale-to-width-down/64?cb=20190518234059",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/9x19_mm_AP_6.3",
+        "num_craftables": "x100\n9x19 mm AP 6.3",
+        "url": "https://escapefromtarkov.gamepedia.com/9x19_mm_AP_6.3",
+        "materials": [
+          {
+            "name": "9x19 mm Pst gzh",
+            "url": "https://escapefromtarkov.gamepedia.com/9x19_mm_Pst_gzh",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/9x19pst.png/revision/latest/scale-to-width-down/64?cb=20190518234156",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/9x19_mm_Pst_gzh"
+          },
+          {
+            "name": "Gunpowder \"Hawk\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/GunpowderHawkIcon.png/revision/latest/scale-to-width-down/64?cb=20200502195244",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Gunpowder \"Eagle\"",
+        "time": "Workbench level 2\n1 h 37 min",
+        "mults": "x2\nM67 Hand grenade\n+\nx1\nRDG-2B Smoke grenade",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/Gunpowder_eagle_icon.png/revision/latest/scale-to-width-down/64?cb=20200502195251",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22",
+        "num_craftables": "x1\nGunpowder \"Eagle\"",
+        "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22",
+        "materials": [
+          {
+            "name": "M67 Hand grenade",
+            "url": "https://escapefromtarkov.gamepedia.com/M67_Hand_grenade",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/01/M67icon.png/revision/latest/scale-to-width-down/64?cb=20190516120111",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/M67_Hand_grenade"
+          },
+          {
+            "name": "RDG-2B Smoke grenade",
+            "url": "https://escapefromtarkov.gamepedia.com/RDG-2B_Smoke_grenade",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/RDG-2B_Smoke_grenade_icon.png/revision/latest/scale-to-width-down/64?cb=20180721202047",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/RDG-2B_Smoke_grenade"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": ".366 AP",
+        "time": "Workbench level 2\n1 h 43 min",
+        "mults": "x50\n9x39 mm SP-6\n+\nx100\n7.62x39 mm PS",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d6/366APIcon.png/revision/latest/scale-to-width-down/64?cb=20200727151112",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/.366_AP",
+        "num_craftables": "x100\n.366 AP",
+        "url": "https://escapefromtarkov.gamepedia.com/.366_AP",
+        "materials": [
+          {
+            "name": "9x39 mm SP-6",
+            "url": "https://escapefromtarkov.gamepedia.com/9x39_mm_SP-6",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/SP6ICON.png/revision/latest/scale-to-width-down/64?cb=20190518224138",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/9x39_mm_SP-6"
+          },
+          {
+            "name": "7.62x39 mm PS",
+            "url": "https://escapefromtarkov.gamepedia.com/7.62x39_mm_PS",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7a/7.62x39PS.png/revision/latest/scale-to-width-down/64?cb=20191227221218",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/7.62x39_mm_PS"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Gunpowder \"Hawk\"",
+        "time": "Workbench level 2\n1 h 52 min",
+        "mults": "x1\nOFZ 30x160mm shell\n+\nx2\nGunpowder \"Kite\"",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/GunpowderHawkIcon.png/revision/latest/scale-to-width-down/64?cb=20200502195244",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22",
+        "num_craftables": "x2\nGunpowder \"Hawk\"",
+        "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22",
+        "materials": [
+          {
+            "name": "OFZ 30x160mm shell",
+            "url": "https://escapefromtarkov.gamepedia.com/OFZ_30x160mm_shell",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9d/30x160mmShellicon.png/revision/latest/scale-to-width-down/64?cb=20200827160543",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/OFZ_30x160mm_shell"
+          },
+          {
+            "name": "Gunpowder \"Kite\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Gunpowder_Icon.png/revision/latest/scale-to-width-down/64?cb=20191028171852",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "5.45x39 mm PP",
+        "time": "Workbench level 2\n1 h 56 min",
+        "mults": "x80\n5.45x39 mm PS\n+\nx1\nBolts",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5d/74PPICON.png/revision/latest/scale-to-width-down/64?cb=20190519005452",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/5.45x39_mm_PP",
+        "num_craftables": "x240\n5.45x39 mm PP",
+        "url": "https://escapefromtarkov.gamepedia.com/5.45x39_mm_PP",
+        "materials": [
+          {
+            "name": "5.45x39 mm PS",
+            "url": "https://escapefromtarkov.gamepedia.com/5.45x39_mm_PS",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/74PSICON.png/revision/latest/scale-to-width-down/64?cb=20190519005532",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/5.45x39_mm_PS"
+          },
+          {
+            "name": "Bolts",
+            "url": "https://escapefromtarkov.gamepedia.com/Bolts",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Boltsicon.png/revision/latest/scale-to-width-down/64?cb=20190604135942",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Bolts"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "7.62x54R SNB",
+        "time": "Workbench level 2\n1 h 58 min",
+        "mults": "x1\nGunpowder \"Hawk\"",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/SNBICON.png/revision/latest/scale-to-width-down/64?cb=20191227215832",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/7.62x54R_SNB",
+        "num_craftables": "x80\n7.62x54R SNB",
+        "url": "https://escapefromtarkov.gamepedia.com/7.62x54R_SNB",
+        "materials": [
+          {
+            "name": "Gunpowder \"Hawk\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/GunpowderHawkIcon.png/revision/latest/scale-to-width-down/64?cb=20200502195244",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "5.56x45 mm M856A1",
+        "time": "Workbench level 2\n2 hours",
+        "mults": "x90\n5.56x45 mm M855\n+\nx1\nGunpowder \"Hawk\"",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/M856A1ICON.png/revision/latest/scale-to-width-down/64?cb=20190519003239",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/5.56x45_mm_M856A1",
+        "num_craftables": "x180\n5.56x45 mm M856A1",
+        "url": "https://escapefromtarkov.gamepedia.com/5.56x45_mm_M856A1",
+        "materials": [
+          {
+            "name": "5.56x45 mm M855",
+            "url": "https://escapefromtarkov.gamepedia.com/5.56x45_mm_M855",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/55/M855ICON.png/revision/latest/scale-to-width-down/64?cb=20190519003213",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/5.56x45_mm_M855"
+          },
+          {
+            "name": "Gunpowder \"Hawk\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/GunpowderHawkIcon.png/revision/latest/scale-to-width-down/64?cb=20200502195244",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "9x39 mm SP-6",
+        "time": "Workbench level 2\n2 h 21 min",
+        "mults": "x60\n7.62x39 mm HP\n+\nx1\nGunpowder \"Eagle\"\n+\nx1\nXenomorph sealing foam",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/SP6ICON.png/revision/latest/scale-to-width-down/64?cb=20190518224138",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/9x39_mm_SP-6",
+        "num_craftables": "x200\n9x39 mm SP-6",
+        "url": "https://escapefromtarkov.gamepedia.com/9x39_mm_SP-6",
+        "materials": [
+          {
+            "name": "7.62x39 mm HP",
+            "url": "https://escapefromtarkov.gamepedia.com/7.62x39_mm_HP",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d8/7.62x39HP.png/revision/latest/scale-to-width-down/64?cb=20191228195103",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/7.62x39_mm_HP"
+          },
+          {
+            "name": "Gunpowder \"Eagle\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/Gunpowder_eagle_icon.png/revision/latest/scale-to-width-down/64?cb=20200502195251",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22"
+          },
+          {
+            "name": "Xenomorph sealing foam",
+            "url": "https://escapefromtarkov.gamepedia.com/Xenomorph_sealing_foam",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ce/Xenoicon.png/revision/latest/scale-to-width-down/64?cb=20190604182817",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Xenomorph_sealing_foam"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 2",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "Car battery",
+        "time": "Workbench level 2\n2 h 46 min",
+        "mults": "x1\n6-STEN-140-M military battery\n+\nx1\nLeatherman Multitool",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/Car_Battery_Icon.png/revision/latest/scale-to-width-down/180?cb=20190602192308",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/Car_battery",
+        "num_craftables": "x5\nCar battery",
+        "url": "https://escapefromtarkov.gamepedia.com/Car_battery",
+        "materials": [
+          {
+            "name": "6-STEN-140-M military battery",
+            "url": "https://escapefromtarkov.gamepedia.com/6-STEN-140-M_military_battery",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/Mil_Batt_icon.png/revision/latest/scale-to-width-down/180?cb=20191127034010",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/6-STEN-140-M_military_battery"
+          },
+          {
+            "name": "Leatherman Multitool",
+            "url": "https://escapefromtarkov.gamepedia.com/Leatherman_Multitool",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/Multitoolicon.png/revision/latest/scale-to-width-down/64?cb=20180319214638",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Leatherman_Multitool"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "RGD-5 hand grenade",
+        "time": "Workbench level 3\n1 h 28 min",
+        "mults": "x1\nOFZ 30x160mm shell",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/RGD-5_grenade_icon.png/revision/latest/scale-to-width-down/64?cb=20180401150556",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/RGD-5_hand_grenade",
+        "num_craftables": "x10\nRGD-5 hand grenade",
+        "url": "https://escapefromtarkov.gamepedia.com/RGD-5_hand_grenade",
+        "materials": [
+          {
+            "name": "OFZ 30x160mm shell",
+            "url": "https://escapefromtarkov.gamepedia.com/OFZ_30x160mm_shell",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9d/30x160mmShellicon.png/revision/latest/scale-to-width-down/64?cb=20200827160543",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/OFZ_30x160mm_shell"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "9x19 mm 7N31",
+        "time": "Workbench level 3\n1 h 56 min",
+        "mults": "x1\nGunpowder \"Eagle\"\n+\nx1\nGunpowder \"Kite\"\n+\nx100\n9x19 mm Pst gzh\n+\nx1\nA pack of nails",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/eb/7N31Icon.png/revision/latest/scale-to-width-down/64?cb=20200912173743",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/9x19_mm_7N31",
+        "num_craftables": "x100\n9x19 mm 7N31",
+        "url": "https://escapefromtarkov.gamepedia.com/9x19_mm_7N31",
+        "materials": [
+          {
+            "name": "Gunpowder \"Eagle\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/Gunpowder_eagle_icon.png/revision/latest/scale-to-width-down/64?cb=20200502195251",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22"
+          },
+          {
+            "name": "Gunpowder \"Kite\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Gunpowder_Icon.png/revision/latest/scale-to-width-down/64?cb=20191028171852",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22"
+          },
+          {
+            "name": "9x19 mm Pst gzh",
+            "url": "https://escapefromtarkov.gamepedia.com/9x19_mm_Pst_gzh",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/9x19pst.png/revision/latest/scale-to-width-down/64?cb=20190518234156",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/9x19_mm_Pst_gzh"
+          },
+          {
+            "name": "A pack of nails",
+            "url": "https://escapefromtarkov.gamepedia.com/A_pack_of_nails",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/Nailsicon.png/revision/latest/scale-to-width-down/64?cb=20190604135619",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/A_pack_of_nails"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "9x19 mm RIP",
+        "time": "Workbench level 3\n2 h 5 min",
+        "mults": "x1\nGunpowder \"Hawk\"\n+\nx4\nWires",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/9x19ripicon.png/revision/latest/scale-to-width-down/64?cb=20190518234208",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/9x19_mm_RIP",
+        "num_craftables": "x180\n9x19 mm RIP",
+        "url": "https://escapefromtarkov.gamepedia.com/9x19_mm_RIP",
+        "materials": [
+          {
+            "name": "Gunpowder \"Hawk\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/GunpowderHawkIcon.png/revision/latest/scale-to-width-down/64?cb=20200502195244",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22"
+          },
+          {
+            "name": "Wires",
+            "url": "https://escapefromtarkov.gamepedia.com/Wires",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png/revision/latest/scale-to-width-down/64?cb=20200618220155",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Wires"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "5.56x45 mm Warmage",
+        "time": "Workbench level 3\n2 h 26 min",
+        "mults": "x2\nGunpowder \"Kite\"\n+\nx1\nGunpowder \"Eagle\"",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/39/556warmageicon.png/revision/latest/scale-to-width-down/64?cb=20190519002909",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/5.56x45_mm_Warmage",
+        "num_craftables": "x200\n5.56x45 mm Warmage",
+        "url": "https://escapefromtarkov.gamepedia.com/5.56x45_mm_Warmage",
+        "materials": [
+          {
+            "name": "Gunpowder \"Kite\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Gunpowder_Icon.png/revision/latest/scale-to-width-down/64?cb=20191028171852",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22"
+          },
+          {
+            "name": "Gunpowder \"Eagle\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/Gunpowder_eagle_icon.png/revision/latest/scale-to-width-down/64?cb=20200502195251",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "5.56x45 mm M995",
+        "time": "Workbench level 3\n2 h 26 min",
+        "mults": "x1\nGunpowder \"Eagle\"\n+\nx1\nOFZ 30x160mm shell",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/M995ICON.png/revision/latest/scale-to-width-down/64?cb=20190519003246",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/5.56x45_mm_M995",
+        "num_craftables": "x140\n5.56x45 mm M995",
+        "url": "https://escapefromtarkov.gamepedia.com/5.56x45_mm_M995",
+        "materials": [
+          {
+            "name": "Gunpowder \"Eagle\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/Gunpowder_eagle_icon.png/revision/latest/scale-to-width-down/64?cb=20200502195251",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22"
+          },
+          {
+            "name": "OFZ 30x160mm shell",
+            "url": "https://escapefromtarkov.gamepedia.com/OFZ_30x160mm_shell",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9d/30x160mmShellicon.png/revision/latest/scale-to-width-down/64?cb=20200827160543",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/OFZ_30x160mm_shell"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "12/70 AP-20 Slug",
+        "time": "Workbench level 3\n2 h 28 min",
+        "mults": "x1\nGunpowder \"Hawk\"\n+\nx2\nDamaged hard drive",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3e/12-70_AP-20_icon.png/revision/latest/scale-to-width-down/64?cb=20191109230243",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/12/70_AP-20_Slug",
+        "num_craftables": "x120\n12/70 AP-20 Slug",
+        "url": "https://escapefromtarkov.gamepedia.com/12/70_AP-20_Slug",
+        "materials": [
+          {
+            "name": "Gunpowder \"Hawk\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/GunpowderHawkIcon.png/revision/latest/scale-to-width-down/64?cb=20200502195244",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22"
+          },
+          {
+            "name": "Damaged hard drive",
+            "url": "https://escapefromtarkov.gamepedia.com/Damaged_hard_drive",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/44/Damaged_Hard_Drive_Icon.png/revision/latest/scale-to-width-down/127?cb=20200609124004",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Damaged_hard_drive"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "7.62x39 mm BP",
+        "time": "Workbench level 3\n2 h 30 min",
+        "mults": "x1\nGunpowder \"Eagle\"",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4a/7.62x39BP.png/revision/latest/scale-to-width-down/64?cb=20191228195130",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/7.62x39_mm_BP",
+        "num_craftables": "x120\n7.62x39 mm BP",
+        "url": "https://escapefromtarkov.gamepedia.com/7.62x39_mm_BP",
+        "materials": [
+          {
+            "name": "Gunpowder \"Eagle\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/Gunpowder_eagle_icon.png/revision/latest/scale-to-width-down/64?cb=20200502195251",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "5.45x39 mm 7N39 \"Igolnik\"",
+        "time": "Workbench level 3\n2 h 37 min",
+        "mults": "x1\nGunpowder \"Kite\"\n+\nx1\nGunpowder \"Eagle\"\n+\nx1\nGunpowder \"Hawk\"",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/7n39icon.png/revision/latest/scale-to-width-down/64?cb=20190519005952",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/5.45x39_mm_7N39_%22Igolnik%22",
+        "num_craftables": "x120\n5.45x39 mm 7N39 \"Igolnik\"",
+        "url": "https://escapefromtarkov.gamepedia.com/5.45x39_mm_7N39_%22Igolnik%22",
+        "materials": [
+          {
+            "name": "Gunpowder \"Kite\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Gunpowder_Icon.png/revision/latest/scale-to-width-down/64?cb=20191028171852",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Kite%22"
+          },
+          {
+            "name": "Gunpowder \"Eagle\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/Gunpowder_eagle_icon.png/revision/latest/scale-to-width-down/64?cb=20200502195251",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Eagle%22"
+          },
+          {
+            "name": "Gunpowder \"Hawk\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/GunpowderHawkIcon.png/revision/latest/scale-to-width-down/64?cb=20200502195244",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "9x39 mm 7N12 BP",
+        "time": "Workbench level 3\n2 h 39 min",
+        "mults": "x1\nMilitary power filter\n+\nx1\nGunpowder \"Hawk\"",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/76/7n12icon.png/revision/latest/scale-to-width-down/64?cb=20190518224237",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/9x39_mm_7N12_BP",
+        "num_craftables": "x80\n9x39 mm 7N12 BP",
+        "url": "https://escapefromtarkov.gamepedia.com/9x39_mm_7N12_BP",
+        "materials": [
+          {
+            "name": "Military power filter",
+            "url": "https://escapefromtarkov.gamepedia.com/Military_power_filter",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/Mil_Filter_Icon.png/revision/latest/scale-to-width-down/64?cb=20191118141308",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Military_power_filter"
+          },
+          {
+            "name": "Gunpowder \"Hawk\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/GunpowderHawkIcon.png/revision/latest/scale-to-width-down/64?cb=20200502195244",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22"
+          }
+        ]
+      },
+      {
+        "level": "Workbench level 3",
+        "level_url": "https://escapefromtarkov.gamepedia.com/Hideout#Modules",
+        "name": "7.62x51 mm M61",
+        "time": "Workbench level 3\n2 h 46 min",
+        "mults": "x3\nGunpowder \"Hawk\"\n+\nx1\nRadiator helix",
+        "craftable_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/M61ICON.png/revision/latest/scale-to-width-down/64?cb=20200805172409",
+        "craftable_img_url": "https://escapefromtarkov.gamepedia.com/7.62x51_mm_M61",
+        "num_craftables": "x130\n7.62x51 mm M61",
+        "url": "https://escapefromtarkov.gamepedia.com/7.62x51_mm_M61",
+        "materials": [
+          {
+            "name": "Gunpowder \"Hawk\"",
+            "url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/GunpowderHawkIcon.png/revision/latest/scale-to-width-down/64?cb=20200502195244",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Gunpowder_%22Hawk%22"
+          },
+          {
+            "name": "Radiator helix",
+            "url": "https://escapefromtarkov.gamepedia.com/Radiator_helix",
+            "mat_img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5a/RadiatorHelixIcon.png/revision/latest/scale-to-width-down/64?cb=20200103045034",
+            "mat_img_url": "https://escapefromtarkov.gamepedia.com/Radiator_helix"
+          }
+        ]
+      }
+    ]
+  }
+]
